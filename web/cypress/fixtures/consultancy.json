@@ -1,0 +1,28 @@
+{
+  "personal": {
+    "name": "Fernando Papito",
+    "email": "papito@teste.com.br",
+    "phone": "11 9999-1000",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "document": "95215871051",
+    "discoveryChannels": ["Instagram", "YouTube", "LinkedIn", "Indicação de Amigo", "Udemy"],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Gostaria de uma consultoria para minha empresa.",
+    "techs": ["JavaScript", "Cypress", "HTML"],
+    "terms": true
+  },
+  "company": {
+    "name": "Fernando Papito",
+    "email": "papito@teste.com.br",
+    "phone": "11 9999-1000",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "20780533097",
+    "discoveryChannels": ["Instagram", "YouTube"],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Gostaria de uma consultoria para minha empresa.",
+    "techs": ["JavaScript"],
+    "terms": true
+  }
+}
